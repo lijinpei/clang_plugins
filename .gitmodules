@@ -1,0 +1,3 @@
+[submodule "chez_cffi"]
+	path = chez_cffi
+	url = ./chez_cffi
